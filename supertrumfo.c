@@ -90,8 +90,7 @@ printf("CARTAS CADASTRADAS \n");
     
     // Na densidade populacional, o MENOR valor vence
 
-    printf("Densidade Populacional: %d\n", densidadePopulacional1 < densidadePopulacional2);
-    
+    printf("Densidade Populacional: %d\n", densidadePopulacional1 < densidadePopulacional2);    
     printf("PIB per Capita: %d\n", pibPerCapita1 > pibPerCapita2);
     printf("Super Poder: %d\n", superPoder1 > superPoder2);
 
